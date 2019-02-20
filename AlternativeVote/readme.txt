@@ -1,4 +1,4 @@
-URL: 
+URL: https://www.codingame.com/ide/puzzle/alternative-vote
 
 Your program implement the alternative vote electoral system.
 
