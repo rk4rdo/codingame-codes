@@ -28,8 +28,6 @@ if len(sys.argv) == 2:
                 oVote = votes[k][1]
                 result[lVote[oVote]] += 1
             
-            del lVote, oVote
-            
             allCandidates = list(candidates.keys())
             while allCandidates:
                 # Search for candidate with min. number of votes
@@ -41,8 +39,6 @@ if len(sys.argv) == 2:
                         minCandidates = [k]
                     elif result[k] == minVotes:
                         minCandidates.append(k)
-                
-                del minVotes, k
                 
                 # Rmv cand. with min. num. of votes (first if more than one)
                 rmvCandidate = min(minCandidates)
