@@ -14,7 +14,7 @@ Codes list:
 007. A-Star Exercise
 008. Under construction
 009. Under construction
-010. Under construction
+010. 1x1x1 Rubiks Cube Movements
 011. Under construction
 012. Under construction
 013. Under construction

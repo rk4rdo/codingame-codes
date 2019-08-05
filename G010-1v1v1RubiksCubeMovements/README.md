@@ -21,12 +21,10 @@ Rotation notation
 - A rotation without the prime symbol ' is a quarter turn clockwise.
 - A rotation with the prime symbol ' is a quarter turn counter-clockwise.
 
-- x, x': rotate cube on R
-(R and L still face the same directions after rotation)
-- y, y': rotate cube on
-(U and D still face the same directions after rotation)
-- z, z': rotate cube on F
-(F and B still face the same directions after rotation)
+Possibilities:
+- x, x': rotate cube on R (R and L still face the same directions after rotation)
+- y, y': rotate cube on U (U and D still face the same directions after rotation)
+- z, z': rotate cube on F (F and B still face the same directions after rotation)
 
 #### Example 1
 > z\
