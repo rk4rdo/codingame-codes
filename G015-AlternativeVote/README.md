@@ -1,5 +1,8 @@
-URL: https://www.codingame.com/ide/puzzle/alternative-vote
+# Alternative Vote
 
+#### [Codingame URL](https://www.codingame.com/ide/puzzle/alternative-vote)
+
+## Description
 Your program implement the alternative vote electoral system.
 
 The alternative vote works by eliminating successively a candidate at
@@ -17,36 +20,46 @@ that appears first in the list of candidates provided as input.
 Each candidate will be identified by its place in the list of
 candidates, starting from 1.
 
-Input
-
-Line 1: number C of candidates
-C next lines: name of each candidate
-Next line : number V of voters
-V next lines : C space separated integers corresponding to the
+## Input
+- Line 1: number C of candidates
+- C next lines: name of each candidate
+- Next line : number V of voters
+- V next lines : C space separated integers corresponding to the
 candidate identifiers in the preference order (from the one that the
 voter wants to win to the one the voter wants to lose).
 
-Output
+## Output
+- C-1 lines : the name of the candidates sorted by the elimination order.
+- Last line: 'winner' followed by the name of the winner.
 
-C-1 lines : the name of the candidates sorted by the elimination order.
-Last line: 'winner' followed by the name of the winner.
+## Constraints
+- 1 < C < 10
+- 1 < V < 1000
+- 1 < length of name < 50
 
-Constraints
-1 < C < 10
-1 < V < 1000
-1 < length of name < 50
+## Example
+### Input
+> 3\
+Bob\
+Jack\
+Amy\
+7\
+3 1 2\
+1 3 2\
+2 3 1\
+1 3 2\
+3 1 2\
+1 2 3\
+3 1 2
 
-Example
-Input			Output
-3				Jack
-Bob				Bob
-Jack			winner:Amy
-Amy
-7
-3 1 2
-1 3 2
-2 3 1
-1 3 2
-3 1 2
-1 2 3
-3 1 2
+### Output
+> Jack\
+Bob\
+winner:Amy
+
+## Execution example
+```
+python code015.py <file_path>
+```
+
+> **_<file_path>_** *Path to the input file*

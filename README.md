@@ -11,7 +11,7 @@ Codes list:
 004. Under construction
 005. Under construction
 006. Under construction
-007. Under construction
+007. A-Star Exercise
 008. Under construction
 009. Under construction
 010. Under construction
@@ -19,7 +19,7 @@ Codes list:
 012. Under construction
 013. Under construction
 014. Under construction
-015. Under construction
+015. Alternative Vote
 016. Under construction
 017. Under construction
 018. Under construction
