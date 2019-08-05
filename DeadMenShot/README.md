@@ -1,6 +1,6 @@
-### Dead men's shot
+# Dead men's shot
 
-# URL: https://www.codingame.com/ide/puzzle/dead-mens-shot
+### URL: https://www.codingame.com/ide/puzzle/dead-mens-shot
 
 Captain Jack Sparrow and his pirate friends have been drinking one
 night. After plenty of rum, they got into an argument about who is the
@@ -33,31 +33,27 @@ M lines with either "hit" or "miss" depending on whether the shot hit
 the target or not.
 
 ## Constraints
-
-3 ≤ N ≤ 10
-
-1 ≤ M ≤ 10
-
--10000 < x,y < 10000
+- 3 ≤ N ≤ 10
+- 1 ≤ M ≤ 10
+- -10000 < x,y < 10000
 
 ## Example
-# Input
-> 4
--100 -100
-100 -100
-100 100
--100 100
-5
-0 0
-99 99
-101 101
-80 -101
+### Input
+> 4\
+-100 -100\
+100 -100\
+100 100\
+-100 100\
+5\
+0 0\
+99 99\
+101 101\
+80 -101\
 0 -100
 
-# Output
+### Output
+> hit\
+hit\
+miss\
+miss\
 hit
-hit
-miss
-miss
-hit
-
