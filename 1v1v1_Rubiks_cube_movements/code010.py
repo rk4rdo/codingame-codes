@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 22 17:49:22 2018
-
 @author: rvillareal
 """
 # Example 1 [Solution => L U]
