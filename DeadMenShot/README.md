@@ -1,6 +1,6 @@
 # Dead men's shot
 
-### URL: https://www.codingame.com/ide/puzzle/dead-mens-shot
+#### URL: https://www.codingame.com/ide/puzzle/dead-mens-shot
 
 Captain Jack Sparrow and his pirate friends have been drinking one
 night. After plenty of rum, they got into an argument about who is the
