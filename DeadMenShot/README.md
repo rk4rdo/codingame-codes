@@ -2,6 +2,7 @@
 
 #### URL: https://www.codingame.com/ide/puzzle/dead-mens-shot
 
+## Description
 Captain Jack Sparrow and his pirate friends have been drinking one
 night. After plenty of rum, they got into an argument about who is the
 best shot. Captain Jack takes up some paint and paints a target on a
@@ -57,3 +58,10 @@ hit\
 miss\
 miss\
 hit
+
+## Execution example
+```
+python code024.py <file_path>
+```
+
+- <file_path> - Path to the input file
