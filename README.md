@@ -30,3 +30,13 @@ Codes list:
 023. Under construction
 024. Dead men's shot
 025. Under construction
+026. Under construction
+027. Under construction
+028. Under construction
+029. Under construction
+030. Under construction
+031. Under construction
+032. Under construction
+033. Under construction
+034. Under construction
+035. Bank Robbers
