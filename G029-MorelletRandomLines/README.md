@@ -33,7 +33,7 @@ a and b can’t be null at the same time.
 
 ## Example
 ### Input
-1 1 0 0\
+> 1 1 0 0\
 1\
 1 2 3
 
