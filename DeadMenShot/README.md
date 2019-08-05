@@ -1,6 +1,6 @@
 # Dead men's shot
 
-#### URL: https://www.codingame.com/ide/puzzle/dead-mens-shot
+#### [Codingame URL](https://www.codingame.com/ide/puzzle/dead-mens-shot)
 
 ## Description
 Captain Jack Sparrow and his pirate friends have been drinking one
@@ -64,4 +64,4 @@ hit
 python code024.py <file_path>
 ```
 
-**_<file_path> -_** *Path to the input file*
+**_<file_path> ->_** *Path to the input file*
