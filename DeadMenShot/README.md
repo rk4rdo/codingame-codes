@@ -64,4 +64,4 @@ hit
 python code024.py <file_path>
 ```
 
-**_<file_path> ->_** *Path to the input file*
+**_<file_path>:_** *Path to the input file*
