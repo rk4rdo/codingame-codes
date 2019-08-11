@@ -55,7 +55,7 @@ separate line.
 
 ## Example
 ### Input
-> <pre>
+<pre>
   7 7
   A  B  C
   |  |  |
@@ -67,9 +67,11 @@ separate line.
 </pre>
 
 ### Output
-> A2\
-B1\
-C3
+<pre>
+  A2
+  B1
+  C3
+</pre>
 
 ## Execution example
 ```
