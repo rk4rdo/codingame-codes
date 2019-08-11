@@ -57,9 +57,3 @@ if len(sys.argv) == 2:
 else:
     print("[ERROR] Process needs file with data")
     sys.exit(1)
-
-
-
-
-
-
