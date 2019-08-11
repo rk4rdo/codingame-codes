@@ -53,3 +53,5 @@ Codes list:
 036. Under construction
 037. Under construction
 038. [Barcode scanner](https://github.com/rk4rdo/codingame-codes/tree/master/G038-BarcodeScanner) **_-_** _Medium_
+039. [Number of paths between 2 points](https://github.com/rk4rdo/codingame-codes/tree/master/G039-NumberPathsBetween2Points) **_-_** _Medium_
+
