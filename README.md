@@ -10,9 +10,9 @@ Codes list:
 002. Under construction
 003. Under construction
 004. Under construction
-005. Under construction
+005. [Simple Awalé](https://github.com/rk4rdo/codingame-codes/tree/master/G005-SimpleAwale) **_-_** _Easy_
 006. Under construction
-007. [A-Star Exercise](https://github.com/rk4rdo/codingame-codes/tree/master/G007-AStarExercise) 
+007. [A-Star Exercise](https://github.com/rk4rdo/codingame-codes/tree/master/G007-AStarExercise)
 008. Under construction
 009. Under construction
 010. [1x1x1 Rubiks Cube Movements](https://github.com/rk4rdo/codingame-codes/tree/master/G010-1v1v1RubiksCubeMovements) **_-_** _Easy_
