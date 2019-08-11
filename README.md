@@ -4,11 +4,20 @@ Codingame-codes
 #### Codes to solve some challenges from [codingame](https://www.codingame.com) website
 ##### All codes are done in Python version 3.7.3
 
+##### Game tester
+
+Script _checkGame.sh_ help testing game examples by showing both process
+output & expected solution.
+
+> bash testExamples.sh <X>
+
+- **<X>**: Game number to check
+
 Codes list:
 
 001. Under construction
 002. Under construction
-003. Under construction
+003. [The River II](https://github.com/rk4rdo/codingame-codes/tree/master/G003-TheRiverII) **_-_** _Easy_
 004. Under construction
 005. [Simple Awalé](https://github.com/rk4rdo/codingame-codes/tree/master/G005-SimpleAwale) **_-_** _Easy_
 006. Under construction
