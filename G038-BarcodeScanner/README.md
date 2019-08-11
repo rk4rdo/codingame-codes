@@ -16,7 +16,7 @@ representation.
 
 Input binary sequence consist of the following blocks:
 <pre>
-LEFT GUARD + LEFT PART + CENTRAL GUARD + RIGHT PART + RIGHT GUARD.
+LEFT GUARD + LEFT PART + CENTRAL GUARD + RIGHT PART + RIGHT GUARD
 </pre>
 - LEFT GUARD and RIGHT GUARD are 3-bit sequences and both should be
 equal to 101.
@@ -35,16 +35,16 @@ You may also notice that R-code is a reversed version of G-code and an
 inverted version of L-code.
 <pre>
 Digit	L-code	G-code	R-code
-0		0001101	0100111 1110010
-1		0011001 0110011 1100110
-2		0010011 0011011 1101100
-3		0111101 0100001 1000010
-4		0100011 0011101 1011100
-5		0110001 0111001 1001110
-6		0101111 0000101 1010000
-7		0111011 0010001 1000100
-8		0110111 0001001 1001000
-9		0001011 0010111 1110100
+0	0001101	0100111 1110010
+1	0011001 0110011 1100110
+2	0010011 0011011 1101100
+3	0111101 0100001 1000010
+4	0100011 0011101 1011100
+5	0110001 0111001 1001110
+6	0101111 0000101 1010000
+7	0111011 0010001 1000100
+8	0110111 0001001 1001000
+9	0001011 0010111 1110100
 </pre>
 Please click [here](https://imgur.com/3kKOkIX) for a visual example.
 
@@ -54,16 +54,16 @@ The first EAN-13 digit is encoded by the pattern of L and G codes in
 LEFT PART using the table below.
 <pre>
 First digit	First group of 6 digits	Last group of 6 digits
-0			LLLLLL					RRRRRR
-1			LLGLGG					RRRRRR
-2			LLGGLG					RRRRRR
-3			LLGGGL					RRRRRR
-4			LGLLGG					RRRRRR
-5			LGGLLG					RRRRRR
-6			LGGGLL					RRRRRR
-7			LGLGLG					RRRRRR
-8			LGLGGL					RRRRRR
-9			LGGLGL					RRRRRR
+0		LLLLLL				RRRRRR
+1		LLGLGG				RRRRRR
+2		LLGGLG				RRRRRR
+3		LLGGGL				RRRRRR
+4		LGLLGG				RRRRRR
+5		LGGLLG				RRRRRR
+6		LGGGLL				RRRRRR
+7		LGLGLG				RRRRRR
+8		LGLGGL				RRRRRR
+9		LGGLGL				RRRRRR
 </pre>
 
 Finally, to verify a barcode after decoding, the following CHECKSUM
