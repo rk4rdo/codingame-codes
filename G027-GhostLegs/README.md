@@ -10,7 +10,7 @@ connectors binding all lines into a connected diagram, like the one
 below.
 
 <pre>
-> A  B  C
+  A  B  C
   |  |  |
   |--|  |
   |  |--|
@@ -51,7 +51,8 @@ order of the top labels from Left to Right. Write each pair in a
 separate line.
 
 ## Constraints
-- 3 < W, H ≤ 100
+- 3 < W
+- H ≤ 100
 
 ## Example
 ### Input
