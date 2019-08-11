@@ -1,6 +1,7 @@
 # Text formatting
 
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/text-formatting)
+#### Python 3.7.3
 
 ## Description
 Format a text file using the following rules:

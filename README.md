@@ -2,6 +2,7 @@ Codingame-codes
 ===============
 
 #### Codes to solve some challenges from [codingame](https://www.codingame.com) website
+##### All codes are done in python version 3.7.3
 
 Codes list:
 

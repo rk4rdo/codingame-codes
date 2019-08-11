@@ -1,6 +1,7 @@
 # Bank Robbers
 
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/bank-robbers)
+#### Python 3.7.3
 
 ## Description
 A gang of R foolish robbers decides to heist a bank. In the bank there

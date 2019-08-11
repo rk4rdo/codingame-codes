@@ -1,6 +1,7 @@
 # Dead men's shot
 
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/dead-mens-shot)
+#### Python 3.7.3
 
 ## Description
 Captain Jack Sparrow and his pirate friends have been drinking one

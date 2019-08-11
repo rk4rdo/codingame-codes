@@ -1,6 +1,7 @@
 # 1x1x1 Rubik's cube movements
 
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements)
+#### Python 3.7.3
 
 ## Description
 A 2×2×2 Rubik's cube is quite complicated. In this puzzle, we will

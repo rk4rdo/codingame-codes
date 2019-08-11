@@ -1,6 +1,7 @@
 # A-Star Exercise
 
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/a-star-exercise)
+#### Python 3.7.3
 
 ## Topic
 A* algorithm, Pathfinding, Heuristic search

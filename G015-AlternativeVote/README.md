@@ -1,6 +1,7 @@
 # Alternative Vote
 
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/alternative-vote)
+#### Python 3.7.3
 
 ## Description
 Your program implement the alternative vote electoral system.
