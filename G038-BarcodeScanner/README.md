@@ -54,16 +54,16 @@ The first EAN-13 digit is encoded by the pattern of L and G codes in
 LEFT PART using the table below.
 <pre>
 First digit	First group of 6 digits	Last group of 6 digits
-0		LLLLLL				RRRRRR
-1		LLGLGG				RRRRRR
-2		LLGGLG				RRRRRR
-3		LLGGGL				RRRRRR
-4		LGLLGG				RRRRRR
-5		LGGLLG				RRRRRR
-6		LGGGLL				RRRRRR
-7		LGLGLG				RRRRRR
-8		LGLGGL				RRRRRR
-9		LGGLGL				RRRRRR
+0		LLLLLL			RRRRRR
+1		LLGLGG			RRRRRR
+2		LLGGLG			RRRRRR
+3		LLGGGL			RRRRRR
+4		LGLLGG			RRRRRR
+5		LGGLLG			RRRRRR
+6		LGGGLL			RRRRRR
+7		LGLGLG			RRRRRR
+8		LGLGGL			RRRRRR
+9		LGGLGL			RRRRRR
 </pre>
 
 Finally, to verify a barcode after decoding, the following CHECKSUM
