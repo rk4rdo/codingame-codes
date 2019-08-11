@@ -44,7 +44,7 @@ output & expected solution.
 027. [Ghost Legs](https://github.com/rk4rdo/codingame-codes/tree/master/G027-GhostLegs) **_-_** _Easy_
 028. [Text formatting](https://github.com/rk4rdo/codingame-codes/tree/master/G028-TextFormatting) **_-_** _Easy_
 029. [Morellet's random lines](https://github.com/rk4rdo/codingame-codes/tree/master/G029-MorelletRandomLines) **_-_** _Easy_
-030. Under construction
+030. [Counting Squares on Pegs](https://github.com/rk4rdo/codingame-codes/tree/master/G030-CountingSquaresOnPegs) **_-_** _Medium_
 031. [Count of primes in a number grid](https://github.com/rk4rdo/codingame-codes/tree/master/G031-CountPrimesInNumberGrid) **_-_** _Medium_
 032. Under construction
 033. [Divine!](https://github.com/rk4rdo/codingame-codes/tree/master/G033-Divine) **_-_** _Medium_
