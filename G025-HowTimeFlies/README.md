@@ -3,8 +3,8 @@
 #### [Codingame URL](https://www.codingame.com/ide/puzzle/how-time-flies)
 #### Python 3.7.3
 #### Libraries
-- python-dateutil _Version: 2.8.0_
-- DateTime _Version: 4.3_
+- **python-dateutil** **_-_** _Version: 2.8.0_
+- **DateTime** **_-_** _Version: 4.3_
 
 ## Description
 Your program must print formatted string with the number of full years
