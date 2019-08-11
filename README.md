@@ -16,7 +16,7 @@ output & expected solution.
 Codes list:
 
 001. Under construction
-002. Under construction
+002. [Organic Compunds](https://github.com/rk4rdo/codingame-codes/tree/master/G002-OrganicCompounds) **_-_** _Easy_
 003. [The River II](https://github.com/rk4rdo/codingame-codes/tree/master/G003-TheRiverII) **_-_** _Easy_
 004. Under construction
 005. [Simple Awalé](https://github.com/rk4rdo/codingame-codes/tree/master/G005-SimpleAwale) **_-_** _Easy_
