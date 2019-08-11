@@ -47,7 +47,7 @@ Codes list:
 030. Under construction
 031. Under construction
 032. Under construction
-033. Under construction
+033. [Divine!](https://github.com/rk4rdo/codingame-codes/tree/master/G033-Divine) **_-_** _Medium_
 034. Under construction
 035. [Bank Robbers](https://github.com/rk4rdo/codingame-codes/tree/master/G035-BankRobbers) **_-_** _Easy_
 036. [Bingo!](https://github.com/rk4rdo/codingame-codes/tree/master/G036-Bingo) **_-_** _Medium_
