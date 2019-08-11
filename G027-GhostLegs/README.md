@@ -9,6 +9,7 @@ number of vertical lines. Between the lines there are random horizontal
 connectors binding all lines into a connected diagram, like the one
 below.
 
+<pre>
 > A  B  C\
 |  |  |\
 |--|  |\
@@ -16,6 +17,7 @@ below.
 |  |--|\
 |  |  |\
 1  2  3
+<\pre>
 
 To play the game, a player chooses a line in the top and follow the line
 downwards. When a horizontal connector is encountered, he must follow
