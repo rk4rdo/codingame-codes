@@ -13,7 +13,7 @@ output & expected solution.
 
 - **X**: Game number to check
 
-Codes list:
+##### Codes list
 
 001. Under construction
 002. [Organic Compunds](https://github.com/rk4rdo/codingame-codes/tree/master/G002-OrganicCompounds) **_-_** _Easy_
@@ -45,7 +45,7 @@ Codes list:
 028. [Text formatting](https://github.com/rk4rdo/codingame-codes/tree/master/G028-TextFormatting) **_-_** _Easy_
 029. [Morellet's random lines](https://github.com/rk4rdo/codingame-codes/tree/master/G029-MorelletRandomLines) **_-_** _Easy_
 030. Under construction
-031. Under construction
+031. [Count of primes in a number grid](https://github.com/rk4rdo/codingame-codes/tree/master/G031-CountPrimesInNumberGrid) **_-_** _Medium_
 032. Under construction
 033. [Divine!](https://github.com/rk4rdo/codingame-codes/tree/master/G033-Divine) **_-_** _Medium_
 034. Under construction
