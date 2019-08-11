@@ -51,8 +51,8 @@ order of the top labels from Left to Right. Write each pair in a
 separate line.
 
 ## Constraints
-- 3 < W
-- H ≤ 100
+- 3 < W ≤ 100
+- 3 < H ≤ 100
 
 ## Example
 ### Input
