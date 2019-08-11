@@ -4,13 +4,6 @@ Created on Thu Nov 15 13:07:51 2018
 
 @author: rvillareal
 """
-# Example 1 [Solution: One, two, three.]
-line1 = "one,two,three."
-
-# Example 2 [Solution: One, two, three.]
-line1 = "one,,two ,three...four,  five,six.seven   years."
-
-#%%
 
 import os
 import re
