@@ -10,14 +10,14 @@ connectors binding all lines into a connected diagram, like the one
 below.
 
 <pre>
-> A  B  C\
-|  |  |\
-|--|  |\
-|  |--|\
-|  |--|\
-|  |  |\
-1  2  3
-<\pre>
+> A  B  C
+  |  |  |
+  |--|  |
+  |  |--|
+  |  |--|
+  |  |  |
+  1  2  3
+</pre>
 
 To play the game, a player chooses a line in the top and follow the line
 downwards. When a horizontal connector is encountered, he must follow
@@ -55,14 +55,16 @@ separate line.
 
 ## Example
 ### Input
-> 7 7\
-A  B  C\
-|  |  |\
-|--|  |\
-|  |--|\
-|  |--|\
-|  |  |\
-1  2  3
+<pre>
+> 7 7
+  A  B  C
+  |  |  |
+  |--|  |
+  |  |--|
+  |  |--|
+  |  |  |
+  1  2  3
+</pre>
 
 ### Output
 > A2\
