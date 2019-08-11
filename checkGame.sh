@@ -51,7 +51,7 @@ fi
 
 echo "[INFO] Iterating over all examples in $pathExamples folder"
 allExamples=($(ls "${pathFolder}/Examples" | grep example))
-for (( nex=0; nex<=${#allExamples[@]}; nex++))
+for (( nex=1; nex<=${#allExamples[@]}; nex++))
 do
 	filex="example${nex}.txt"
 	solex="solutionExample${nex}.txt"
