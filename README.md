@@ -32,7 +32,7 @@ Codes list:
 024. [Dead men's shot](https://github.com/rk4rdo/codingame-codes/tree/master/G024-DeadMenShot) **_-_** _Easy_
 025. Under construction
 026. Under construction
-027. Under construction
+027. [Ghost Legs](https://github.com/rk4rdo/codingame-codes/tree/master/G027-GhostLegs) **_-_** _Easy_
 028. [Text formatting](https://github.com/rk4rdo/codingame-codes/tree/master/G028-TextFormatting) **_-_** _Easy_
 029. [Morellet's random lines](https://github.com/rk4rdo/codingame-codes/tree/master/G029-MorelletRandomLines) **_-_** _Easy_
 030. Under construction
