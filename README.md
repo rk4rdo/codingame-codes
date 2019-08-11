@@ -21,7 +21,7 @@ Codes list:
 013. Under construction
 014. Under construction
 015. [Alternative Vote](https://github.com/rk4rdo/codingame-codes/tree/master/G015-AlternativeVote)
-016. Under construction
+016. [Rugby score](https://github.com/rk4rdo/codingame-codes/tree/master/G016-RugbyScore) **_-_** _Easy_
 017. Under construction
 018. Under construction
 019. Under construction
