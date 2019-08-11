@@ -55,8 +55,8 @@ separate line.
 
 ## Example
 ### Input
-<pre>
-> 7 7
+> <pre>
+  7 7
   A  B  C
   |  |  |
   |--|  |
