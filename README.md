@@ -2,7 +2,7 @@ Codingame-codes
 ===============
 
 #### Codes to solve some challenges from [codingame](https://www.codingame.com) website
-##### All codes are done in python version 3.7.3
+##### All codes are done in Python version 3.7.3
 
 Codes list:
 
@@ -12,10 +12,10 @@ Codes list:
 004. Under construction
 005. Under construction
 006. Under construction
-007. [A-Star Exercise](https://github.com/rk4rdo/codingame-codes/tree/master/G007-AStarExercise)
+007. [A-Star Exercise](https://github.com/rk4rdo/codingame-codes/tree/master/G007-AStarExercise) 
 008. Under construction
 009. Under construction
-010. [1x1x1 Rubiks Cube Movements](https://github.com/rk4rdo/codingame-codes/tree/master/G010-1v1v1RubiksCubeMovements)
+010. [1x1x1 Rubiks Cube Movements](https://github.com/rk4rdo/codingame-codes/tree/master/G010-1v1v1RubiksCubeMovements) **_Level:_** _Easy_
 011. Under construction
 012. Under construction
 013. Under construction
@@ -28,16 +28,16 @@ Codes list:
 020. Under construction
 021. Under construction
 022. Under construction
-023. [Under construction](https://github.com/rk4rdo/codingame-codes/tree/master/G024-DeadMenShot)
-024. Dead men's shot
+023. Under construction
+024. [Dead men's shot](https://github.com/rk4rdo/codingame-codes/tree/master/G024-DeadMenShot) **_Level:_** _Easy_
 025. Under construction
 026. Under construction
 027. Under construction
-028. Under construction
-029. [Morellet's random lines](https://github.com/rk4rdo/codingame-codes/tree/master/G029-MorelletRandomLines)
+028. [Text formatting](https://github.com/rk4rdo/codingame-codes/tree/master/G028-TextFormatting) **_Level:_** _Easy_
+029. [Morellet's random lines](https://github.com/rk4rdo/codingame-codes/tree/master/G029-MorelletRandomLines) **_Level:_** _Easy_
 030. Under construction
 031. Under construction
 032. Under construction
 033. Under construction
 034. Under construction
-035. [Bank Robbers](https://github.com/rk4rdo/codingame-codes/tree/master/G035-BankRobbers)
+035. [Bank Robbers](https://github.com/rk4rdo/codingame-codes/tree/master/G035-BankRobbers) **_Level:_** _Easy_
