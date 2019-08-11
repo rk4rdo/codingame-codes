@@ -50,7 +50,7 @@ Codes list:
 033. Under construction
 034. Under construction
 035. [Bank Robbers](https://github.com/rk4rdo/codingame-codes/tree/master/G035-BankRobbers) **_-_** _Easy_
-036. Under construction
+036. [Bingo!](https://github.com/rk4rdo/codingame-codes/tree/master/G036-Bingo) **_-_** _Medium_
 037. Under construction
 038. [Barcode scanner](https://github.com/rk4rdo/codingame-codes/tree/master/G038-BarcodeScanner) **_-_** _Medium_
 039. [Number of paths between 2 points](https://github.com/rk4rdo/codingame-codes/tree/master/G039-NumberPathsBetween2Points) **_-_** _Medium_
