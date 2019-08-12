@@ -22,17 +22,15 @@ In Scrabble©, each letter is weighted with a score depending on how
 difficult it is to place that letter in a word. You will see below a
 table showing the points corresponding to each letter:
 
-<pre>
-Letters					Points
-------------------------------------------------------------------------
-e, a, i, o, n, r, t, l, s, u		1
-d, g					2
-b, c, m, p				3
-f, h, v, w, y				4
-k					5
-j, x					8
-q, z					10
-</pre>
+| Letters						| Points						|
+| :---------------------------- | ----------------------------: |
+| e, a, i, o, n, r, t, l, s, u	| 							  1 |
+| d, g							|							  2 |
+| b, c, m, p					|							  3 |
+| f, h, v, w, y					|							  4 |
+| k								|							  5 |
+| j, x							|							  8 |
+| q, z							|							 10 |
 
 The word banjo earns you 3 + 1 + 1 + 8 + 1 = 14 points.
 
