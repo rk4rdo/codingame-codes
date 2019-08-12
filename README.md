@@ -15,7 +15,7 @@ output & expected solution.
 
 ##### Codes list
 
-001. Under construction
+001. [Hidden word](https://github.com/rk4rdo/codingame-codes/tree/master/G001-HiddenWord) **_-_** _Medium_
 002. [Organic Compunds](https://github.com/rk4rdo/codingame-codes/tree/master/G002-OrganicCompounds) **_-_** _Easy_
 003. [The River II](https://github.com/rk4rdo/codingame-codes/tree/master/G003-TheRiverII) **_-_** _Easy_
 004. Under construction
@@ -54,4 +54,4 @@ output & expected solution.
 037. Under construction
 038. [Barcode scanner](https://github.com/rk4rdo/codingame-codes/tree/master/G038-BarcodeScanner) **_-_** _Medium_
 039. [Number of paths between 2 points](https://github.com/rk4rdo/codingame-codes/tree/master/G039-NumberPathsBetween2Points) **_-_** _Medium_
-
+040. [Dwarfs standing on the shoulders of giants](https://github.com/rk4rdo/codingame-codes/tree/master/G040-DwarfsStandingShouldersGiants) **_-_** _Medium_
