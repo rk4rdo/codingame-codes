@@ -48,7 +48,7 @@ output & expected solution.
 031. [Count of primes in a number grid](https://github.com/rk4rdo/codingame-codes/tree/master/G031-CountPrimesInNumberGrid) **_-_** _Medium_
 032. Under construction
 033. [Divine!](https://github.com/rk4rdo/codingame-codes/tree/master/G033-Divine) **_-_** _Medium_
-034. Under construction
+034. [Expand the polynomial](https://github.com/rk4rdo/codingame-codes/tree/master/G034-ExpandPolynomial) **_-_** _Hard_
 035. [Bank Robbers](https://github.com/rk4rdo/codingame-codes/tree/master/G035-BankRobbers) **_-_** _Easy_
 036. [Bingo!](https://github.com/rk4rdo/codingame-codes/tree/master/G036-Bingo) **_-_** _Medium_
 037. Under construction
