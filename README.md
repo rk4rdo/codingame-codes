@@ -35,7 +35,7 @@ output & expected solution.
 018. Under construction
 019. Under construction
 020. Under construction
-021. Under construction
+021. [Telephone Numbers](https://github.com/rk4rdo/codingame-codes/tree/master/G021-TelephoneNumbers) **_-_** _Medium_
 022. [Numeral system](https://github.com/rk4rdo/codingame-codes/tree/master/G022-NumeralSystem) **_-_** _Medium_
 023. [Factorial vs Exponential](https://github.com/rk4rdo/codingame-codes/tree/master/G023-FactorialVsExponential) **_-_** _Medium_
 024. [Dead men's shot](https://github.com/rk4rdo/codingame-codes/tree/master/G024-DeadMenShot) **_-_** _Easy_

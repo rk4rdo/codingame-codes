@@ -25,6 +25,7 @@ Fortunately, the specifications also have this little chart to guide you
 in the implementation:
 
 ![fig1](https://www.codingame.com/fileservlet?id=266985027077)
+
 Fig 1. Structure of data to stock phone numbers on iDroid
 
 Your task is to write a program that displays the number of items
