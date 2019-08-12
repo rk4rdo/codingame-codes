@@ -4,25 +4,6 @@ Created on Fri Jan  4 11:51:54 2019
 
 @author: rvillareal
 """
-# Example 1 [Solution: x^2+x-2]
-line1 = "(x-1)*(x+2)"
-
-# Example 2 [Solution: x^2-4x+4]
-line1 = "(x-2)^2"
-
-# Example 3 [Solution: x^2-4]
-line1 = "(x-2)(x+2)"
-
-# Example 4 [Solution: 16x^5-24x^4+37x^3-16x^2+8x-1]
-line1 = "(4x^3-5x^2+7x-1)(4x^2-x+1)"
-
-# Example 5 [Solution: x^4-1]
-line1 = "(x-1)(x+1)(x^2+1)"
-
-# Example 6 [Solution: 2x^4-x^3-8x^2+x+6]
-line1 = "(2x^2+x-3)(x^2-x-2)"
-
-#%%
 
 import re
 import os
