@@ -33,7 +33,7 @@ output & expected solution.
 016. [Rugby score](https://github.com/rk4rdo/codingame-codes/tree/master/G016-RugbyScore) **_-_** _Easy_
 017. Under construction
 018. Under construction
-019. Under construction
+019. [Reversed Look-and-say](https://github.com/rk4rdo/codingame-codes/tree/master/G019-ReversedLookAndSay) **_-_** _Medium_
 020. Under construction
 021. [Telephone Numbers](https://github.com/rk4rdo/codingame-codes/tree/master/G021-TelephoneNumbers) **_-_** _Medium_
 022. [Numeral system](https://github.com/rk4rdo/codingame-codes/tree/master/G022-NumeralSystem) **_-_** _Medium_
