@@ -1,6 +1,6 @@
-# Factorial vs Exponential
+# Numeral system
 
-#### [Codingame URL](https://www.codingame.com/ide/puzzle/factorial-vs-exponential)
+#### [Codingame URL](https://www.codingame.com/ide/puzzle/numeral-system)
 #### Python 3.7.3
 
 ## Description
