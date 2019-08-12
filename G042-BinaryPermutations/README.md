@@ -11,7 +11,7 @@ input bit may not be the same as the position of the corresponding
 output bit, but all output bits are mapped from different input bits.
 
 An example permutation is one that rearranges bits as follows:
-> b2 b1 b0 → b1 b0 b2
+<pre>b2 b1 b0 → b1 b0 b2</pre>
 
 The result of the permutation (on different inputs) is:
 <pre>
@@ -22,7 +22,7 @@ binary 101 → 011 yields as integer 5 → 3
 
 For one such permutation, your program will receive a number of clues
 about the permutation in the following form:
-> Xi Yi
+<pre>Xi Yi</pre>
 where Xi and Yi are base 10 numbers and Yi is the result of the
 permutation on Xi.
 
