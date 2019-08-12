@@ -21,14 +21,14 @@ output & expected solution.
 004. Under construction
 005. [Simple Awalé](https://github.com/rk4rdo/codingame-codes/tree/master/G005-SimpleAwale) **_-_** _Easy_
 006. Under construction
-007. [A-Star Exercise](https://github.com/rk4rdo/codingame-codes/tree/master/G007-AStarExercise)
+007. [A-Star Exercise](https://github.com/rk4rdo/codingame-codes/tree/master/G007-AStarExercise) **_-_** _Medium_
 008. [Disordered First Contact](https://github.com/rk4rdo/codingame-codes/tree/master/G008-DisorderedFirstContact) **_-_** _Easy_
 009. Under construction
 010. [1x1x1 Rubiks Cube Movements](https://github.com/rk4rdo/codingame-codes/tree/master/G010-1v1v1RubiksCubeMovements) **_-_** _Easy_
 011. Under construction
 012. Under construction
 013. Under construction
-014. Under construction
+014. [ANEO Sponsored Puzzle](https://github.com/rk4rdo/codingame-codes/tree/master/G014-ANEOSponsoredPuzzle) **_-_** _Medium_
 015. [Alternative Vote](https://github.com/rk4rdo/codingame-codes/tree/master/G015-AlternativeVote)
 016. [Rugby score](https://github.com/rk4rdo/codingame-codes/tree/master/G016-RugbyScore) **_-_** _Easy_
 017. Under construction
