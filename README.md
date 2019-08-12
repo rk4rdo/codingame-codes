@@ -37,7 +37,7 @@ output & expected solution.
 020. Under construction
 021. Under construction
 022. Under construction
-023. Under construction
+023. [Factorial vs Exponential](https://github.com/rk4rdo/codingame-codes/tree/master/G023-FactorialVsExponential) **_-_** _Medium_
 024. [Dead men's shot](https://github.com/rk4rdo/codingame-codes/tree/master/G024-DeadMenShot) **_-_** _Easy_
 025. [How time flies](https://github.com/rk4rdo/codingame-codes/tree/master/G025-HowTimeFlies) **_-_** _Easy_
 026. Under construction
