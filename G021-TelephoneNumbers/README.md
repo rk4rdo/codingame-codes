@@ -17,6 +17,8 @@ your attention:
 	- The numbers corresponding to the first digits entered will be
 	displayed to the user almost instantly.
 
+![fig1](Raw/fig1.jpg?raw=true)
+
 2. Number storage optimization
 	- First digits which are common to the numbers should not be
 	duplicated in the memory.
@@ -24,9 +26,9 @@ your attention:
 Fortunately, the specifications also have this little chart to guide you
 in the implementation:
 
-![fig1](https://www.codingame.com/fileservlet?id=266985027077)
+![fig2](Raw/fig2.png?raw=true)
 
-Fig 1. Structure of data to stock phone numbers on iDroid
+Example: Structure of data to stock phone numbers on iDroid.
 
 Your task is to write a program that displays the number of items
 (which are numbers) required to store a list of telephone numbers with
