@@ -8,8 +8,8 @@ Codingame-codes
 
 Script _checkGame.sh_ help testing game examples by showing both process
 output & expected solution.
-<pre>bash checkGame.sh X</pre>
-- **X**: Game number to check
+<pre>bash checkGame.sh NumX</pre>
+- **NumX**: Game number to check
 
 ##### Codes list
 
@@ -38,7 +38,7 @@ output & expected solution.
 023. [Factorial vs Exponential](https://github.com/rk4rdo/codingame-codes/tree/master/G023-FactorialVsExponential) **_-_** _Medium_
 024. [Dead men's shot](https://github.com/rk4rdo/codingame-codes/tree/master/G024-DeadMenShot) **_-_** _Easy_
 025. [How time flies](https://github.com/rk4rdo/codingame-codes/tree/master/G025-HowTimeFlies) **_-_** _Easy_
-026. Under construction
+026. [Test before Validate!](https://github.com/rk4rdo/codingame-codes/tree/master/G026-TestBeforeValidate) **_-_** _Hard_
 027. [Ghost Legs](https://github.com/rk4rdo/codingame-codes/tree/master/G027-GhostLegs) **_-_** _Easy_
 028. [Text formatting](https://github.com/rk4rdo/codingame-codes/tree/master/G028-TextFormatting) **_-_** _Easy_
 029. [Morellet's random lines](https://github.com/rk4rdo/codingame-codes/tree/master/G029-MorelletRandomLines) **_-_** _Easy_

@@ -1,6 +1,6 @@
-# Cryptarithm
+# Test before Validate!
 
-#### [Codingame URL](https://www.codingame.com/ide/puzzle/cryptarithm)
+#### [Codingame URL](https://www.codingame.com/ide/puzzle/test-before-validate!)
 #### Python 3.7.3
 
 ## Description
