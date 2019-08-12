@@ -8,9 +8,7 @@ Codingame-codes
 
 Script _checkGame.sh_ help testing game examples by showing both process
 output & expected solution.
-
-> bash testExamples.sh X
-
+<pre>bash checkGame.sh X</pre>
 - **X**: Game number to check
 
 ##### Codes list
